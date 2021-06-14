@@ -1,0 +1,45 @@
+body{
+    font-family: Merriweather;
+    background-color: #AFEEEE;
+}
+h1 {
+    display: block;
+    font-weight: bold;
+    color: red;
+    background-color:#E0FFFF;
+    text-align: center;
+    width: 500px;
+    height: 20px;
+    border: 10%;
+    border-color: black;
+    margin: 100px;
+    padding: 20%;
+}
+
+h2 {
+    padding: 12px;
+    text-align: center;
+    color:saddlebrown;
+}
+.livro1{
+    border: 50px;
+    border: solid;
+    border-color: black;
+    display: block;
+    margin: 100px;
+    box-sizing: border-box;
+    
+}
+.livro2{ 
+    border: 50px;
+    border: solid;
+    border-color: blue;
+    display: block; 
+    margin: 100px; 
+
+}
+
+h3{
+    position:relative;
+    text-align: right;
+}
